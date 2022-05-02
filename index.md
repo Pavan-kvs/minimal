@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # PROJECT-1
-Fraud Detection
-build a machine learning model to detect frauds in banking sector
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
 ## Header 2
 ### Header 3
 
